@@ -25,7 +25,7 @@ ___________________________________________________
 > 
 < HTTP/1.1 200 OK - Это статус ответа сервера. Сообщает, что сервер успешно обработал запрос
 < Server: nginx/1.19.1 - Строка указывает на серверное ПО и его версию
-< Date: Thu, 21 Sep 2023 16:00:42 GMT - Строка содержить дату и время когда был получен ответ от сервера
+< Date: Wed, 29 Nov 2023 15:01:40 GMT - Строка содержить дату и время когда был получен ответ от сервера
 < Content-Type: text/html; charset=utf-8 - Строка указывает на тип содержимого.
 < Content-Length: 169 - указывает размер отправленного получателю тела объекта в байтах
 < Connection: keep-alive - Эта строка указывает, что соединение между клиентом и сервером должно быть поддерживаемым
@@ -54,7 +54,7 @@ ___________________________________________________
 >
 < HTTP/1.1 200 OK
 < Server: GitHub.com
-< Date: Thu, 21 Sep 2023 16:25:27 GMT
+< Date: Wed, 29 Nov 2023 15:09:50 GMT
 < Content-Type: text/html; charset=utf-8
 < Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Language, Accept-Encoding, Accept, X-Requested-With -  Этот заголовок указывает на факторы, 
 которые могут влиять на кэширование ответа на стороне клиента или прокси-сервера. 
@@ -94,7 +94,7 @@ ___________________________________________________
 < Content-Type: text/html;charset=utf-8
 < Content-Length: 210102 -  Этот заголовок указывает на длину (размер) содержимого ответа в байтах (210102 байта).
 < Connection: keep-alive
-< Date: Mon, 21 Sep 2023 16:34:51 GMT
+< Date: Wed, 29 Nov 2023 15:20:50 GMT
 < Vary: Accept-Encoding
 < X-UCM-Pod-Name: inex-ucm-776d97f9d-4mqxf - Этот заголовок связан с идентификацией серверного подключения.
 < Strict-Transport-Security: max-age=15724800; includeSubDomains
@@ -148,7 +148,7 @@ ___________________________________________________
 < X-Frame-Options: SAMEORIGIN
 < Via: 1.1 vegur, 1.1 varnish, 1.1 varnish
 < Accept-Ranges: bytes
-< Date: Thu, 21 Sep 2023 16:41:41 GMT
+< Date: Wed, 29 Nov 2023 15:25:00 GMT
 < Age: 227 - Этот заголовок указывает на время в секундах, прошедшее с момента кэширования ответа на сервере или прокси.
 < X-Served-By: cache-iad-kiad7000025-IAD, cache-bma1622-BMA - Этот заголовок указывает на серверы и прокси, которые обслуживали запрос.
 < X-Cache: HIT, HIT - Этот заголовок указывает, что ответ был получен из кэша как минимум дважды.
@@ -172,7 +172,7 @@ ___________________________________________________
 > Accept: */*
 >
 < HTTP/1.1 200 OK
-< Date: Thu, 21 Sep 2023 16:44:38 GMT
+< Date: Wed, 29 Nov 2023 15:28:35 GMT
 < Content-Type: text/html; charset=utf-8
 < Connection: keep-alive
 < X-Frame-Options: SAMEORIGIN
@@ -209,7 +209,7 @@ ___________________________________________________
 < Content-Type: text/html; charset=utf-8
 < Content-Length: 47213
 < Connection: keep-alive
-< Date: Thu, 21 Sep 2023 16:48:45 GMT
+< Date: Wed, 29 Nov 2023 15:35:50 GMT
 < Server: nginx
 < X-Content-Type-Options: nosniff
 < Referrer-Policy: same-origin
@@ -254,5 +254,5 @@ ___________________________________________________
 < X-Powered-By: ASP.NET
 < x-azure-ref: 0jXQMZQAAAAANusv29yi/TZWZhOm/Gq20U1RPRURHRTEzMTMAYmU4N2RjNmQtNDBmOS00NWIwLTg4MTAtOTkxMDg3ZWY4YjI5
 < X-Cache: CONFIG_NOCACHE
-< Date: Thu, 21 Sep 2023 16:51:24 GMT
+< Date: Wed, 29 Nov 2023 15:47:50 GMT
 ```
